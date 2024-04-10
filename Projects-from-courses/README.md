@@ -3,6 +3,7 @@
 Используя данные сервиса Яндекс.Недвижимость, определить рыночную стоимость объектов недвижимости и типичные параметры квартир.
 ### Навыки и инструменты
 **Теги: маркетинг, fraud**
+
 <img src="https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas&logoColor=orange"/><img src="https://img.shields.io/badge/MatPlotlib-black?style=flat-square"/>
 ## Сферы деятельности:
 Маркетинг-аналитик, Fraud-аналитик, Data Analyst
